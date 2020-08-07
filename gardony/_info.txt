@@ -1,0 +1,12 @@
+http://kernyilvantartas.zalajaras.hu/public/
+Megye = Főváros
+
+curl.sql módosítás:
+1) Megnézni hány oldal van
+2) curl_gen.bat user agent, coookie: PHPSESSID és xjxr, for max paraméterek változtatása
+3) curl_gen.bat futtatás
+4) curl_run.bat futtatás -> budapest_09.html
+5) budapest_09.bat futtatás a konvertáláshoz -> 1090.txt
+
+
+

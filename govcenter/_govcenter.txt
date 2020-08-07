@@ -1,0 +1,35 @@
+544	budapest_01
+007	budapest_02
+432	budapest_05
+182	budapest_06
+465	budapest_11
+126	budapest_12
+001	budapest_13
+563	budapest_14
+169	budapest_15
+010	budapest_16
+462	budapest_18
+548	budapest_19
+564	budapest_21                  
+583	budapest_22
+587	budapest_23
+008	balatonszarszo
+015	szolnok
+034	veszprem
+055	nagykanizsa
+064	zalaegerszeg
+104	pecs
+149	kecskemet
+223	eger
+305	miskolc
+426	budaors
+518	gyor
+539	erd
+555	hodmezovasarhely
+568	tatabanya
+584	sopron
+585	szombathely
+646	kaposvar
+
+
+

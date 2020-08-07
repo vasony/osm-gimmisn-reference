@@ -1,0 +1,12 @@
+main script: govcenter.sh
+
+1) végigmegy a _govcenter.txt-n
+2) leszedi html-be az adott oldalt
+3) text fileba konvertálja
+
+_govcenter_all.txt-ben az összes terület, azok is amik már nem frissülnek
+
+
+
+
+
