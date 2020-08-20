@@ -1,0 +1,24 @@
+Budapest 08:	https://iparkerpublikalas.komdat.hu/?onkid=167e1e18-65a1-4c87-8ecb-33afe0e654b5
+Budapest 20:	https://iparkerpublikalas.komdat.hu/?onkid=83BE8C4C-DFAB-45C6-B922-6126741A3C57
+Komló:          https://iparkerpublikalas.komdat.hu/?onkid=10ce11d8-1056-431f-be80-f7db0eb41567
+
+Többi id az onk_id.txt fájlban
+
+Ki kell választani, hogy üzlet, majd az API hívást ki kell parseolni ezekből, ahol a filenev=0
+erre az url-re módosítani az a1get.bat-ban
+
+Az adatok base64-gyel vannak kódolva.
+Ezen kívül a karakterek el vannak shiftelve 1..8 byteal, poziciótól függően, fordított sorrendben kell összerakni az eredményt:
+
+  v_shift := 0;
+  for a in 1 .. length(v_decoded) loop
+    v_result := chr(ascii(substr(v_decoded,a,1))-v_shift) || v_result;
+    v_shift := mod(v_shift+1,8);
+  end loop;
+
+
+                                                                    
+
+
+
+

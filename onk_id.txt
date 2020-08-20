@@ -1,0 +1,159 @@
+govcenter
+544	1014 Budapest
+7	1024 Budapest
+432	1051 Budapest
+182	1066 Budapest
+-- 1070	1071  Budapest
+---58	1087 Budapest; Nem frissül -> komdat:	
+465	1117 Budapest
+126	1122 Budapest
+1	1138 Budapest
+563	1146 Budapest
+169	1152 Budapest
+10	1163 Budapest
+462	1183 Budapest
+548	1191 Budapest
+--578	1201 Budapest; Nem frissül -> komdat
+564	1212 Budapest                     
+583	1222 Budapest
+587	1239 Budapest 
+
+8	8624 Balatonszárszó
+15	5000 Szolnok
+34	8200 Veszprém
+35	7700 Mohács
+55	8800 Nagykanizsa
+64	8900 Zalaegerszeg
+104     7634 Pécs 
+149	6000 Kecskemét
+223	3300 Eger
+305	3533 Miskolc
+426	2040 Budaörs
+518	9024 Győr
+539	2030 Érd
+555	6800 Hódmezővásárhely
+568	2800 Tatabánya
+584	9400 Sopron
+585	9700 Szombathely
+646	7400 Kaposvár
+
+Nem frissül:
+6	2600 Vác
+11	4080 Hajdúnánás
+14	4320 Nagykálló
+20	5540 Szarvas
+22	9600 Sárvár
+24	2131 Göd
+27	8230 Balatonfüred
+31	2840 Oroszlány
+32	6230 Soltvadkert
+33	2112 Veresegyház
+36	7200 Dombóvár
+38	8220 Balatonalmádi
+39	7300 Komló		-> komdat
+40	7020 Dunaföldvár
+42	7570 Barcs
+43	4300 Nyírbátor
+44	8621 Zamárdi
+45	3770 Sajószentpéter
+46	2400 Dunaújváros
+47	8100 Várpalota
+48	5340 Kunhegyes
+50	2314 Halásztelek
+52	3360 Heves
+53	2310 Szigetszentmiklós
+54	2200 Monor
+57	2091 Etyek
+59	5500 Gyomaendrőd
+60	2230 Gyömrő
+61	4220 Hajdúböszörmény
+62	3060 Pásztó
+65	2316 Tököl
+66	2300 Ráckeve
+67	2085 Pilisvörösvár
+68	9671 Sitke
+100	2440 Százhalombatta
+118	2746 Jászkarajenő
+125	8237 Tihany
+128	3348 Szilvásvárad
+232	2095 Pilisszántó
+236	2049 Diósd
+237	2360 Gyál
+276	2740 Abony
+352	2890 Tata
+370	2133 Sződliget
+396	2120 Dunakeszi
+398	2335 Taksony
+401	8066 Pusztavám
+408	8161 Ősi
+414	8400 Ajka
+423	6041 Kerekegyháza
+448	2092 Budakeszi
+451	8164 Balatonfőkajár
+469	2074 Perbál
+475	2330 Dunaharaszti
+478	8500 Pápa
+483	8246 Tótvázsony
+484	7150 Bonyhád
+492	2014 Csobánka
+493	2626 Nagymaros
+495	2633 Ipolytölgyes
+496	2627 Zebegény
+497	2631 Ipolydamásd
+498	2629 Márianosztra
+499	2632 Letkés
+500	2093 Budajenő
+501	2090 Remeteszőlős
+502	2683 Acsa
+510	8638 Balatonlelle
+514	2461 Tárnok
+517	2628 Szob
+519	Teszt
+520	2253 Tápióság
+521	2766 Tápiószele
+523	9612 Bögöt
+524	2760 Nagykáta
+525	8623 Balatonföldvár
+526	8614 Bálványos
+527	8618 Kereki
+528	8619 Pusztaszemes                                                                           	
+529	8622 Szántód
+530	8625 Szólád
+531	8626 Teleki
+549	2234 Maglód
+551	6400 Kiskunhalas
+552	4060 Balmazújváros
+559	7122 Kakasd
+562	3349 Nagyvisnyó
+567	7030 Paks
+572	4200 Hajdúszoboszló
+580	8245 Vászoly
+
+komdat
++ 167e1e18-65a1-4c87-8ecb-33afe0e654b5	Budapest 08
++ 83BE8C4C-DFAB-45C6-B922-6126741A3C57	Budapest 20
++ 10ce11d8-1056-431f-be80-f7db0eb41567	Komló
+
+7aeb631f-6fcf-47fc-8e40-8744b1717dad	Bozsok
+4d6100d2-4bca-47dc-a057-ee82b2a68733	Budajenő
+52072a94-a717-4e03-94ab-e184a12982f3	Dunaszentgyörgy
+6a7ef3fe-62cd-4b55-a7bc-e3596fdea01f	Füzesabony
+f44b5de5-e203-42ec-8d55-93be5f17f2b9	Halásztelek
+AECB4F1B-C04C-4B6E-B62C-DF739C3D7113	Harkakötöny
+29183e5e-0378-4ed3-9e6d-5aa95cf5238a	Izmény 
+b80d09b5-5de7-4d5b-bfca-0d1bfcc0d53d	Jászszentandrás
+7336D534-2405-41BD-89EF-BEF56D1DB569    Kiskunhalas
+ba933fb2-4dcc-4a32-ab6b-e08b7c7e4e15	Kisvejke
+281925d4-44f2-4049-9418-da7df61c75d3	Kapuvár 
+ceb23ba1-47cb-4ba4-8335-aa648af8eadf	Mád 
+0ed472e6-0b08-4c6a-8117-7ab3c8c6998f    Maklár
+8e939af2-e512-435f-ab3d-f9e36d480a2e	Ostoros
+E0013092-A760-4B43-AF63-93FF41039F40	Pirtó
+f93466cd-4ce2-407d-acde-111a0a0485f9	Poroszló
+dce178fa-ce0e-432b-9cbf-6480d771b2ff	Ráckeve
+15fe45b2-2c9a-43e1-b59e-385250c4d0e3	Sarud
+9c5c6888-7922-40f4-a1d3-8be9ce370e0e	Szalkszentmárton
+387dcb4e-caff-4651-bf90-abc17f90a40f	Tápiószőlős
+0df96adb-74d4-49b1-a607-e8bfe026c664	Tass
+D066EBD8-4982-4B7F-99D4-4638F622631E    Zagyvarékas
+

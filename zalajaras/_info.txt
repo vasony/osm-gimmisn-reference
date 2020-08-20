@@ -1,0 +1,9 @@
+http://kernyilvantartas.zalajaras.hu/public/
+Budapestnél: Megye = Főváros
+
+curl.sql módosítás:
+1) Megnézni hány oldal van -> page paraméter
+2) 1curl_gen.bat user agent, coookie: PHPSESSID és xjxr, page, telepules paraméterek változtatása
+3) 1curl_gen.bat futtatás
+4) 2curl_run.bat futtatás -> temp\(telepules).html
+5) 3conv.bat futtatás a konvertáláshoz -> telepules.txt
