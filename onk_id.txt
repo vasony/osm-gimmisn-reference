@@ -136,8 +136,11 @@ komdat
 
 7aeb631f-6fcf-47fc-8e40-8744b1717dad	Bozsok
 4d6100d2-4bca-47dc-a057-ee82b2a68733	Budajenő
+4e7b1b03-6bfc-49a7-9976-c2c7b9805627  Dunaharaszti
+f9d012bd-28e3-4157-9f54-13c1c188c683  Dunakeszi
 52072a94-a717-4e03-94ab-e184a12982f3	Dunaszentgyörgy
 6a7ef3fe-62cd-4b55-a7bc-e3596fdea01f	Füzesabony
+320e08a3-d8d1-4628-8de0-3171aa545195  Gyál
 f44b5de5-e203-42ec-8d55-93be5f17f2b9	Halásztelek
 AECB4F1B-C04C-4B6E-B62C-DF739C3D7113	Harkakötöny
 29183e5e-0378-4ed3-9e6d-5aa95cf5238a	Izmény 
@@ -147,7 +150,9 @@ ba933fb2-4dcc-4a32-ab6b-e08b7c7e4e15	Kisvejke
 281925d4-44f2-4049-9418-da7df61c75d3	Kapuvár 
 ceb23ba1-47cb-4ba4-8335-aa648af8eadf	Mád 
 0ed472e6-0b08-4c6a-8117-7ab3c8c6998f    Maklár
+c4992373-9063-45f0-8e20-1b35a060c2e8  Nagytálya
 8e939af2-e512-435f-ab3d-f9e36d480a2e	Ostoros
+42b20c23-3d1c-4e50-80dd-fd7b835551eb  Paks
 E0013092-A760-4B43-AF63-93FF41039F40	Pirtó
 f93466cd-4ce2-407d-acde-111a0a0485f9	Poroszló
 dce178fa-ce0e-432b-9cbf-6480d771b2ff	Ráckeve
@@ -155,5 +160,5 @@ dce178fa-ce0e-432b-9cbf-6480d771b2ff	Ráckeve
 9c5c6888-7922-40f4-a1d3-8be9ce370e0e	Szalkszentmárton
 387dcb4e-caff-4651-bf90-abc17f90a40f	Tápiószőlős
 0df96adb-74d4-49b1-a607-e8bfe026c664	Tass
+E5CD40FA-7123-496F-9AA3-1A8B83083D82  Vác
 D066EBD8-4982-4B7F-99D4-4638F622631E    Zagyvarékas
-
