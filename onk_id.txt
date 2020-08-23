@@ -137,9 +137,11 @@ komdat
 7aeb631f-6fcf-47fc-8e40-8744b1717dad	Bozsok
 4d6100d2-4bca-47dc-a057-ee82b2a68733	Budajenő
 4e7b1b03-6bfc-49a7-9976-c2c7b9805627    Dunaharaszti
+f9d012bd-28e3-4157-9f54-13c1c188c683  Dunakeszi
 52072a94-a717-4e03-94ab-e184a12982f3	Dunaszentgyörgy
 0b2340e9-4d3a-4286-b26a-bc5c1ff05819	Dunaújváros
 6a7ef3fe-62cd-4b55-a7bc-e3596fdea01f	Füzesabony
+320e08a3-d8d1-4628-8de0-3171aa545195  Gyál
 f44b5de5-e203-42ec-8d55-93be5f17f2b9	Halásztelek
 AECB4F1B-C04C-4B6E-B62C-DF739C3D7113	Harkakötöny
 29183e5e-0378-4ed3-9e6d-5aa95cf5238a	Izmény 
@@ -161,4 +163,5 @@ dce178fa-ce0e-432b-9cbf-6480d771b2ff	Ráckeve
 917a50e8-7d11-4dc3-9cf7-95b82ed2a0ad	Taksony
 387dcb4e-caff-4651-bf90-abc17f90a40f	Tápiószőlős
 0df96adb-74d4-49b1-a607-e8bfe026c664	Tass
+E5CD40FA-7123-496F-9AA3-1A8B83083D82  Vác
 D066EBD8-4982-4B7F-99D4-4638F622631E    Zagyvarékas
