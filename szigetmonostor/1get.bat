@@ -1,0 +1,1 @@
+wget -N https://szigetmonostor.hu/images/dokumentumok/egyeb_dokumentumok/KERESKEDELMI_TEVEKENYSEGET_VEGZOK_NYILVANTARTASA_I.xls
