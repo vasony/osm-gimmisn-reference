@@ -1,3 +1,3 @@
-cím;comment
-1221 Budapest, Szent István tér 1.;OSM épület és referencia. Azért hiányozhat, mert az egyetlen cím a téren, és se nem lakóház, se nem cég.
-1225 Budapest, Őszirózsa utca 4.;OSM címpont, egyértelműen kint van az épületen, de maga az épület a merőleges Kardvirág utcáról nyílik, így ezt adtam meg fő címként. Mindkettő házszám látható a terepen.
+id;cím;megjegyzés
+1;1221 Budapest, Szent István tér 1.;OSM épület és referencia. Azért hiányozhat, mert az egyetlen cím a téren, és se nem lakóház, se nem cég.
+2;1225 Budapest, Őszirózsa utca 4.;OSM címpont, egyértelműen kint van az épületen, de maga az épület a merőleges Kardvirág utcáról nyílik, így ezt adtam meg fő címként. Mindkettő házszám látható a terepen.
