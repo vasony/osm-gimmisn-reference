@@ -1,0 +1,1 @@
+open acrobat reader save as text
