@@ -1,0 +1,16 @@
+2020.12.19 - csak aktív (ha kiikszeljuk akkor csak a lezártak jönnek)
+
+Excel gomb, save as Unicode Text
+iconv utf16 -> utf8
+
+https://orgovany.asp.lgov.hu/nyilvantartasok
+
+1) Üzlet - Nyilvántartás a bejelentéshez kötött kereskedelmi tevékenységről - 62 db
+2) Üzlet - Nyilvántartás a működési engedéllyel rendelkező üzletekről - 16 db
+
+https://tura.asp.lgov.hu/nyilvantartasok
+
+https://jakabszallas.asp.lgov.hu/nyilvantartasok
+
+Többi terület:
+https://duckduckgo.com/?q=nyilv%C3%A1ntart%C3%A1s+site%3Aasp.lgov.hu%2Fnyilvantartasok&t=h_&ia=web
