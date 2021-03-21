@@ -1,9 +1,10 @@
 ﻿Név;Forrás;Terület;Aktív;Frissítés;Darabszám;Megjegyzés
-Egyedi címek;https://github.com/vasony/osm-gimmisn-reference/blob/master/egyedi-cimek.txt;országos;N;2020.12.16;2;Referenciákban nem, de valóságban létező házszámok
-Elmű karbantartások;https://elmuhalozat.hu/tudnivalok/energiakozeli-informaciok/tervezett-karbanatartasok;regionális;I;2020.03.25;4201;Tömbbönkénti házszámok, sok fals, nem használható
-Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2020.12.10;2289;
-Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2020.12.10;239;
-Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2020.09.30;4244;3 különböző táblázat
-Giro egyszerűsített hitelesítő tábla;https://www.giro.hu/letoltes/egyszerusitett-hitelesito-tabla-xls-2020-12-01;országos;I;2020.12.01;6240;Bank címek
-Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2020.12.17;145;
-NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2020.12.07;1525;
+Egyedi címek;https://github.com/vasony/osm-gimmisn-reference/blob/master/egyedi-cimek.txt;országos;I;2020.12.31;54;Referenciákban nem, de valóságban létező házszámok
+Elmű karbantartások;https://elmuhalozat.hu/tudnivalok/energiakozeli-informaciok/tervezett-karbanatartasok;regionális;N;2020.03.25;4201;Tömbbönkénti házszámok, sok fals, nem használható
+Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2021.03.21;2289;
+Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2021.03.19;250;
+Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2020.12.31;3773;3 különböző táblázat
+Giro egyszerűsített hitelesítő tábla;https://www.giro.hu/letoltes/egyszerusitett-hitelesito-tabla-xls-2020-12-01;országos;I;2021.03.01;6240;Bank címek
+Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2021.03.21;146;
+NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.03.21;1538;
+Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.03.19;31023;Excel és pdf is van
