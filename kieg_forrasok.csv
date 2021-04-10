@@ -7,4 +7,7 @@ Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_12
 Giro egyszerűsített hitelesítő tábla;https://www.giro.hu/letoltes/egyszerusitett-hitelesito-tabla-xls-2020-12-01;országos;I;2021.03.01;6240;Bank címek
 Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2021.03.21;146;
 NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.03.21;1538;
-Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.03.19;31023;Excel és pdf is van
+Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.04.09;31029;Excel és pdf is van
+Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;I;2021.03.24;3546;
+Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2021.04.08;2591;csak aminek van címe, nem mobilposta
+Iskolák;https://www.kir.hu/KIFIR2/TTJegyzekKereso/Home/TeljesListaXlsx;országos;I;2021.04.09;6838;
