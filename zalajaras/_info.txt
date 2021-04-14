@@ -1,3 +1,7 @@
+--------------------------------------------------------------------------
+!!! OBSOLETE - 2020.12.31 óta nem frissül. - https://oknyir.kh.gov.hu/ !!!
+--------------------------------------------------------------------------
+
 http://kernyilvantartas.zalajaras.hu/public/
 Budapestnél: Megye = Főváros
 
