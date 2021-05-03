@@ -43,6 +43,7 @@ asp;Bozzai;Vas;Szombathelyi;;;;;;;;https://bozzai.asp.lgov.hu/nyilvantartasok
 komdat;Bozsok;Vas;Kőszegi;;;;7aeb631f-6fcf-47fc-8e40-8744b1717dad;;;;https://iparkerpublikalas.komdat.hu/?onkid=7aeb631f-6fcf-47fc-8e40-8744b1717dad
 govcenter;Bögöt;Vas;Sárvári;;523;2016.09.02;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=523
 komdat;Budajenő;Pest;Budakeszi;;500;2015.03.10;4d6100d2-4bca-47dc-a057-ee82b2a68733;;;2020.08.01;https://iparkerpublikalas.komdat.hu/?onkid=4d6100d2-4bca-47dc-a057-ee82b2a68733
+zalajaras;Budakalász;Pest;Szentendrei;I;;;;;2020.12.02;2021.05.03;https://www.budakalasz.hu/onkormanyzat/kozerdeku-adatok/2-4-a-szerv-nyilvantartasai/
 govcenter;Budakeszi;Pest;Budakeszi;;448;2014.12.10;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=448
 govcenter;Budaörs;Pest;Budakeszi;I;426;2021.04.01;;;;2021.04.10;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=426
 govcenter;Budapest 01;Budapest;Budapest 01;I;544;2021.03.30;;;;2021.04.10;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=544
@@ -210,7 +211,7 @@ asp;Nagykáta;Pest;Nagykátai;;524;2015.05.12;;;;2020.08.01;https://nagykata.asp
 asp;Nagykereki;Hajdú-Bihar;Berettyóújfalui;;;;;;;;https://nagykereki.asp.lgov.hu/nyilvantartasok
 zalajaras;Nagykovácsi;Pest;Budakeszi;I;;;;;2020.12.01;2021.04.11;
 asp;Nagylóc;Nógrád;Szécsényi;;;;;;;;https://nagyloc.asp.lgov.hu/nyilvantartasok
-govcenter;Nagymaros;Pest;Szobi;;493;2015.03.23;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=493
+zalajaras;Nagymaros;Pest;Szobi;I;493;2015.03.23;;;2020.06.11;2021.05.03;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=493
 asp;Nagymizdó;Vas;Körmendi;;;;;;;;https://nagymizdo.asp.lgov.hu/nyilvantartasok
 asp;Nagyszentjános;Győr-Moson-Sopron;Győri;;;;;;;;https://nagyszentjanos.asp.lgov.hu/nyilvantartasok
 komdat;Nagytálya;Heves;Egri;;;;c4992373-9063-45f0-8e20-1b35a060c2e8;;;;https://iparkerpublikalas.komdat.hu/?onkid=c4992373-9063-45f0-8e20-1b35a060c2e8
@@ -247,6 +248,7 @@ asp;Pilisvörösvár;Pest;Pilisvörösvári;I;67;2017.12.12;;;2021.04.06;2021.04
 govcenter;Pilisszántó;Pest;Pilisvörösvári;;232;2015.03.04;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=232
 zalajaras;Pilisszentiván;Pest;Pilisvörösvári;I;;;;;2016.08.01;2021.04.14;
 komdat;Pirtó;Bács-Kiskun;Kiskunhalasi;;;;E0013092-A760-4B43-AF63-93FF41039F40;;;;https://iparkerpublikalas.komdat.hu/?onkid=E0013092-A760-4B43-AF63-93FF41039F40
+zalajaras;Pomáz;Pest;Szentendrei;I;;;;;2020.01.31;2021.05.03;https://www.pomaz.hu/hatosagi_nyilvantartasok
 komdat;Poroszló;Heves;Füzesabonyi;;;;f93466cd-4ce2-407d-acde-111a0a0485f9;;;;https://iparkerpublikalas.komdat.hu/?onkid=f93466cd-4ce2-407d-acde-111a0a0485f9
 govcenter;Pusztaszemes;Somogy;Siófoki;;528;2013.10.22;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=528
 govcenter;Pusztavám;Fejér;Móri;;401;2017.10.17;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=401
@@ -290,7 +292,7 @@ zalajaras;Szigethalom;Pest;Szigetszentmiklósi;I;;;;;2019.08.12;2021.04.14;
 govcenter;Szigetszentmiklós;Pest;Szigetszentmiklósi;;53;2019.01.11;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=53
 asp;Szilsárkány;Győr-Moson-Sopron;Csornai;;;;;;;;https://szilsarkany.asp.lgov.hu/nyilvantartasok
 govcenter;Szilvásvárad;Heves;Bélapátfalvai;I;128;2017.04.03;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=128
-asp;Szob;Pest;Szobi;;;;;;;;https://szob.asp.lgov.hu/nyilvantartasok
+asp;Szob;Pest;Szobi;I;;;;;2021.04.29;2021.05.03;https://szob.asp.lgov.hu/nyilvantartasok
 govcenter;Szólád;Somogy;Siófoki;;530;2017.03.03;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=530
 govcenter;Szolnok;Jász-Nagykun-Szolnok;Szolnoki;;15;2021.04.07;;;;2021.04.10;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=15
 govcenter;Szombathely;Vas;Szombathelyi;;585;2021.04.09;;;;2021.04.10;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=585
