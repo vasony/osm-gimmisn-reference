@@ -1,13 +1,13 @@
-﻿Név;Forrás;Terület;Aktív;Frissítés;Darabszám;Megjegyzés
-Egyedi címek;https://github.com/vasony/osm-gimmisn-reference/blob/master/egyedi-cimek.txt;országos;I;2020.12.31;54;Referenciákban nem, de valóságban létező házszámok
-Elmű karbantartások;https://elmuhalozat.hu/tudnivalok/energiakozeli-informaciok/tervezett-karbanatartasok;regionális;N;2020.03.25;4201;Tömbbönkénti házszámok, sok fals, nem használható
-Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2021.03.21;2289;
-Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2021.03.19;250;
-Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2020.12.31;3773;3 különböző táblázat
-Giro egyszerűsített hitelesítő tábla;https://www.giro.hu/letoltes/egyszerusitett-hitelesito-tabla-xls-2020-12-01;országos;I;2021.03.01;6240;Bank címek
-Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2021.03.21;146;
-NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.03.21;1538;
-Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.04.09;31029;Excel és pdf is van
-Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;I;2021.03.24;3546;
-Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2021.04.08;2591;csak aminek van címe, nem mobilposta
-Iskolák;https://www.kir.hu/KIFIR2/TTJegyzekKereso/Home/TeljesListaXlsx;országos;I;2021.04.09;6838;
+﻿ID;Név;Forrás;Terület;Aktív;Frissítés;Darabszám;Megjegyzés
+1;Egyedi címek;https://github.com/vasony/osm-gimmisn-reference/blob/master/egyedi-cimek.txt;országos;I;2020.12.31;54;Referenciákban nem, de valóságban létező házszámok
+-;Elmű karbantartások;https://elmuhalozat.hu/tudnivalok/energiakozeli-informaciok/tervezett-karbanatartasok;regionális;N;2020.03.25;4201;Tömbbönkénti házszámok, sok fals, nem használható
+2;Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2021.03.21;2289;
+3;Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2021.03.19;250;
+5;Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2020.12.31;3773;3 különböző táblázat
+6;NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.03.21;1538;
+7;Giro egyszerűsített hitelesítő tábla;https://www.giro.hu/letoltes/egyszerusitett-hitelesito-tabla-xls-2020-12-01;országos;I;2021.03.01;6240;Bank címek
+8;Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2021.03.21;146;
+9;Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.04.09;31029;Excel és pdf is van
+10;Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;I;2021.03.24;3546;
+11;Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2021.04.08;2591;csak aminek van címe, nem mobilposta
+12;Iskolák;https://www.kir.hu/KIFIR2/TTJegyzekKereso/Home/TeljesListaXlsx;országos;I;2021.04.09;6838;
