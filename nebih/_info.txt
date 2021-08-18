@@ -1,0 +1,9 @@
+NEHIB
+--  https://portal.nebih.gov.hu/termelo-kereso
+1) nebih.bat 
+2) nebih.html megnyitas
+3) copy-paste
+
+
+
+
