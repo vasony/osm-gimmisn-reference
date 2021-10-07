@@ -4,11 +4,13 @@
 2;Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2021.08.17;2286;
 3;Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2021.08.17;245;csak aminek van értelmes címe
 5;Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2021.06.30;3773;3 különböző táblázat
-6;NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.03.21;1538;2021-08-17  HTTP 404
-7;Giro egyszerűsített hitelesítő tábla;https://www.giro.hu/letoltes/egyszerusitett-hitelesito-tabla-xls-2020-12-01;országos;I;2021.08.01;6242;Bank címek
+6;NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.10.02;1538;
+7;Giro egyszerűsített hitelesítő tábla;https://giro.hu/dokumentumok;országos;I;2021.10.01;6242;Bank címek
 8;Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2021.08.17;161;
 9;Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.08.12;31039;Excel és pdf is van
 10;Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;I;2021.03.24;3546;2021-08-17 Nem frissült
 11;Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2021.08.16;2587;csak aminek van címe, nem mobilposta
 12;Iskolák;https://www.kir.hu/KIFIR2/TTJegyzekKereso/Home/TeljesListaXlsx;országos;I;2021.08.17;1342;csak egyedi címek
 13;Dohányboltok;https://www.nav.gov.hu/nav/adatbazisok/vamhat_engedelyes_dohanyboltok_1417768186390;országos;I;2021.08.17;5190;
+14;ÉTDR;https://www.etdr.gov.hu/GeneralInformations/ProcessList;országos;I;2021.10.02;5732;2019.01.01-től, csak a gimmisn települések egy része
+15;KCR Újbuda;https://kozigazgatas.ujbuda.hu/esemeny/hirdetmenyek/cimkezelessel-erintett-cimek-kozzetetele-203;helyi;I;2021.09.28;0;ref_osm_gimmisn manuális felvitel ahol szükséges

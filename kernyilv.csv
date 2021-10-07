@@ -12,15 +12,15 @@ zalajaras;Bajót;Komárom-Esztergom;Esztergomi;I;;;;;2015.05.15;2021.04.12;
 asp;Bakóca;Baranya;Hegyháti;;;;;;;;https://bakoca.asp.lgov.hu/nyilvantartasok
 asp;Bakonszeg;Hajdú-Bihar;"	Berettyóújfalui";;;;;;;;https://bakonszeg.asp.lgov.hu/nyilvantartasok
 zalajaras;Balatonakali;Veszprém;Balatonfüredi;;;;;;2020.12.11;2021.04.11;
-asp;Balatonalmádi;Veszprém;Balatonalmádi;I;38;2018.12.19;;;2021.04.06;2021.04.11;https://balatonalmadi.asp.lgov.hu/nyilvantartasok
+asp;Balatonalmádi;Veszprém;Balatonalmádi;I;38;2018.12.19;;;2021.10.05;2021.10.05;https://balatonalmadi.asp.lgov.hu/nyilvantartasok
 zalajaras;Balatoncsicsó;Veszprém;Balatonfüredi;I;;;;;2020.11.11;2021.04.11;
 govcenter;Balatonfőkajár;Veszprém;Balatonalmádi;;451;2014.01.02;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=451
 govcenter;Balatonföldvár;Somogy;Siófoki;;525;2017.11.08;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=525
 asp;Balatonfüred;Veszprém;Balatonfüredi;;27;2019.12.10;;;2020.12.19;2020.12.19;https://balatonfured.asp.lgov.hu/nyilvantartasok
-asp;Balatongyörök;Zala;Keszthelyi;I;;;;;2021.03.29;2021.04.11;https://balatongyorok.asp.lgov.hu/nyilvantartasok
+asp;Balatongyörök;Zala;Keszthelyi;I;;;;;2021.10.05;2021.10.05;https://balatongyorok.asp.lgov.hu/nyilvantartasok
 govcenter;Balatonlelle;Somogy;Fonyódi;I;510;2018.10.11;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=510
 zalajaras;Balatonőszöd;Somogy;Siófoki;I;;;;;2021.08.18;2021.04.13;https://www.balatonszemes.hu/onkormanyzat/nyilvantartasok/
-govcenter;Balatonszárszó;Somogy;Siófoki;I;8;2021.06.07;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=8
+govcenter;Balatonszárszó;Somogy;Siófoki;I;8;2021.06.26;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=8
 zalajaras;Balatonszemes;Somogy;Siófoki;I;;;;;2021.08.18;2021.04.13;https://www.balatonszemes.hu/onkormanyzat/nyilvantartasok/
 zalajaras;Balatonszepezd;Veszprém;Balatonfüredi;;;;;;2020.09.01;2021.04.11;
 zalajaras;Balatonszőlős;Veszprém;Balatonfüredi;;;;;;2013.07.25;2021.04.11;
@@ -45,30 +45,30 @@ govcenter;Bögöt;Vas;Sárvári;;523;2016.09.02;;;;2020.08.01;https://www.govcen
 komdat;Budajenő;Pest;Budakeszi;;500;2015.03.10;4d6100d2-4bca-47dc-a057-ee82b2a68733;;;2020.08.01;https://iparkerpublikalas.komdat.hu/?onkid=4d6100d2-4bca-47dc-a057-ee82b2a68733
 zalajaras;Budakalász;Pest;Szentendrei;I;;;;;2020.12.02;2021.05.03;https://www.budakalasz.hu/onkormanyzat/kozerdeku-adatok/2-4-a-szerv-nyilvantartasai/
 govcenter;Budakeszi;Pest;Budakeszi;;448;2014.12.10;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=448
-govcenter;Budaörs;Pest;Budakeszi;I;426;2021.08.09;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=426
-govcenter;Budapest 01;Budapest;Budapest 01;I;544;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=544
-govcenter;Budapest 02;Budapest;Budapest 02;I;7;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=7
+govcenter;Budaörs;Pest;Budakeszi;I;426;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=426
+govcenter;Budapest 01;Budapest;Budapest 01;I;544;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=544
+govcenter;Budapest 02;Budapest;Budapest 02;I;7;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=7
 önkormányzat;Budapest 03;Budapest;Budapest 03;I;;;;;2021.03.31;2021.04.11;https://obuda.hu/blog/igazgatas/kozerdekbol-kozzetett-hatosagi-nyilvantartasok/
 zalajaras;Budapest 04;Budapest;Budapest 04;I;;;;;2015.12.18;2021.04.11;
-govcenter;Budapest 05;Budapest;Budapest 05;I;432;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=432
-govcenter;Budapest 06;Budapest;Budapest 06;I;182;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=182
-önkormányzat;Budapest 07;Budapest;Budapest 07;I;;;;;2020.11.23;2021.01.14;https://www.erzsebetvaros.hu/nyilvanossag/kozerdeku-adatok/nyilvantartasok
-komdat;Budapest 08;Budapest;Budapest 08;I;58;2018.12.13;167e1e18-65a1-4c87-8ecb-33afe0e654b5;2021.08.06;;2021.08.17;https://iparkerpublikalas.komdat.hu/?onkid=167e1e18-65a1-4c87-8ecb-33afe0e654b5
+govcenter;Budapest 05;Budapest;Budapest 05;I;432;2021.10.01;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=432
+govcenter;Budapest 06;Budapest;Budapest 06;I;182;2021.09.30;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=182
+govcenter;Budapest 07;Budapest;Budapest 07;I;647;2021.09.30;;;2020.11.23;2021.10.05;https://www.erzsebetvaros.hu/nyilvanossag/kozerdeku-adatok/nyilvantartasok
+komdat;Budapest 08;Budapest;Budapest 08;I;58;2018.12.13;167e1e18-65a1-4c87-8ecb-33afe0e654b5;2021.10.01;;2021.10.04;https://iparkerpublikalas.komdat.hu/?onkid=167e1e18-65a1-4c87-8ecb-33afe0e654b5
 zalajaras;Budapest 09;Budapest;Budapest 09;I;;;;;2021.01.14;2021.01.14;http://kernyilvantartas.zalajaras.hu/public/
 zalajaras;Budapest 10;Budapest;Budapest 10;I;;;;;2021.01.05;2021.04.11;https://www.kobanya.hu/index.php?module=iparker&tipus=Uzlet
-govcenter;Budapest 11;Budapest;Budapest 11;I;465;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=465
-govcenter;Budapest 12;Budapest;Budapest 12;I;126;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=126
-govcenter;Budapest 13;Budapest;Budapest 13;I;1;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=1
-govcenter;Budapest 14;Budapest;Budapest 14;I;563;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=563
-govcenter;Budapest 15;Budapest;Budapest 15;I;169;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=169
-govcenter;Budapest 16;Budapest;Budapest 16;I;10;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=10
+govcenter;Budapest 11;Budapest;Budapest 11;I;465;2021.10.06;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=465
+govcenter;Budapest 12;Budapest;Budapest 12;I;126;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=126
+govcenter;Budapest 13;Budapest;Budapest 13;I;1;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=1
+govcenter;Budapest 14;Budapest;Budapest 14;I;563;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=563
+govcenter;Budapest 15;Budapest;Budapest 15;I;169;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=169
+govcenter;Budapest 16;Budapest;Budapest 16;I;10;2021.09.23;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=10
 zalajaras;Budapest 17;Budapest;Budapest 17;I;;;;;2021.01.06;2021.04.11;
-govcenter;Budapest 18;Budapest;Budapest 18;I;462;2021.08.11;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=462
-govcenter;Budapest 19;Budapest;Budapest 19;I;548;2021.08.14;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=548
-komdat;Budapest 20;Budapest;Budapest 20;I;578;2018.12.17;83BE8C4C-DFAB-45C6-B922-6126741A3C57;2021.08.17;;2021.08.17;https://iparkerpublikalas.komdat.hu/?onkid=83BE8C4C-DFAB-45C6-B922-6126741A3C57
-govcenter;Budapest 21;Budapest;Budapest 21;I;564;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=564
-govcenter;Budapest 22;Budapest;Budapest 22;I;583;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=583
-govcenter;Budapest 23;Budapest;Budapest 23;I;587;2021.08.10;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=587
+govcenter;Budapest 18;Budapest;Budapest 18;I;462;2021.09.27;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=462
+govcenter;Budapest 19;Budapest;Budapest 19;I;548;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=548
+komdat;Budapest 20;Budapest;Budapest 20;I;578;2018.12.17;83BE8C4C-DFAB-45C6-B922-6126741A3C57;2021.10.01;;2021.10.04;https://iparkerpublikalas.komdat.hu/?onkid=83BE8C4C-DFAB-45C6-B922-6126741A3C57
+govcenter;Budapest 21;Budapest;Budapest 21;I;564;2021.10.04;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=564
+govcenter;Budapest 22;Budapest;Budapest 22;I;583;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=583
+govcenter;Budapest 23;Budapest;Budapest 23;I;587;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=587
 asp;Ceglédbercel;Pest;Ceglédi;;;;;;;;https://cegledbercel.asp.lgov.hu/nyilvantartasok
 asp;Cikó ;Tolna;Bonyhádi;;;;;;;;https://ciko.asp.lgov.hu/nyilvantartasok
 asp;Csátalja;Bács-Kiskun;Bajai;;;;;;;;https://csatalja.asp.lgov.hu/nyilvantartasok
@@ -96,11 +96,11 @@ komdat;Dunakeszi;Pest;Dunakeszi;;396;2018.12.19;f9d012bd-28e3-4157-9f54-13c1c188
 asp;Dunakiliti;Győr-Moson-Sopron;Mosonmagyaróvári;;;;;;;;https://dunakiliti.asp.lgov.hu/nyilvantartasok
 komdat;Dunaszentgyörgy;Tolna;Paksi;;;;52072a94-a717-4e03-94ab-e184a12982f3;;;;https://iparkerpublikalas.komdat.hu/?onkid=52072a94-a717-4e03-94ab-e184a12982f3
 asp;Dunasziget;Győr-Moson-Sopron;Mosonmagyaróvári;;;;;;;;https://dunasziget.asp.lgov.hu/nyilvantartasok
-komdat;Dunaújváros;Fejér;Dunaújvárosi;I;46;2019.08.27;0b2340e9-4d3a-4286-b26a-bc5c1ff05819;2021.08.13;;2021.08.17;https://iparkerpublikalas.komdat.hu/?onkid=0b2340e9-4d3a-4286-b26a-bc5c1ff05819
-govcenter;Eger;Heves;Egri;;223;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=223
+komdat;Dunaújváros;Fejér;Dunaújvárosi;I;46;2019.08.27;0b2340e9-4d3a-4286-b26a-bc5c1ff05819;2021.09.29;;2021.10.04;https://iparkerpublikalas.komdat.hu/?onkid=0b2340e9-4d3a-4286-b26a-bc5c1ff05819
+govcenter;Eger;Heves;Egri;I;223;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=223
 asp;Egyházasrádóc;Vas;Körmendi;;;;;;;;https://egyhazasradoc.asp.lgov.hu/nyilvantartasok
 asp;Elek;Békés;Gyulai;;;;;;;;https://elek.asp.lgov.hu/nyilvantartasok
-govcenter;Érd;Pest;Érdi;;539;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=539
+govcenter;Érd;Pest;Érdi;;539;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=539
 zalajaras;Esztergom;Komárom-Esztergom;Esztergomi;I;;;;;2016.08.31;2021.04.13;
 govcenter;Etyek;Fejér;Bicskei;;57;2018.02.06;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=57
 asp;Felsőszentiván;Bács-Kiskun;Bajai;;;;;;;;https://felsoszentivan.asp.lgov.hu/nyilvantartasok
@@ -117,7 +117,7 @@ komdat;Gyál;Pest;Gyáli;;237;2015.06.25;320e08a3-d8d1-4628-8de0-3171aa545195;;;
 asp;Gyermely;Komárom-Esztergom;Tatabányai;;;;;;;;https://gyermely.asp.lgov.hu/nyilvantartasok
 govcenter;Gyomaendrőd;Békés;Gyomaendrődi;I;59;2018.12.05;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=59
 govcenter;Gyömrő;Pest;Monori;;60;2017.12.20;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=60
-govcenter;Győr;Győr-Moson-Sopron;Győri;;518;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=518
+govcenter;Győr;Győr-Moson-Sopron;Győri;;518;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=518
 asp;Györe;Tolna;Bonyhádi;;;;;;;;https://gyore.asp.lgov.hu/nyilvantartasok
 zalajaras;Gyula;Békés;Gyulai;I;;;;;2020.12.18;2021.04.13;
 govcenter;Hajdúböszörmény;Hajdú-Bihar;Hajdúböszörményi;;61;2018.12.27;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=61
@@ -130,7 +130,7 @@ asp;Hét;Borsod-Abaúj-Zemplén;Putnoki;;;;;;;;https://het.asp.lgov.hu/nyilvanta
 govcenter;Heves;Heves;Hevesi;;52;2017.12.11;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=52
 asp;Hévíz;Zala;Keszthelyi;;;;;;;;https://heviz.asp.lgov.hu/nyilvantartasok
 asp;Hirics;Baranya;Sellyei;;;;;;;;https://hirics.asp.lgov.hu/nyilvantartasok
-govcenter;Hódmezővásárhely;Csongrád-Csanád;Hódmezővásárhelyi;;555;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=555
+govcenter;Hódmezővásárhely;Csongrád-Csanád;Hódmezővásárhelyi;;555;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=555
 asp;Hosszúhetény;Baranya;Pécsi;;;;;;;;https://hosszuheteny.asp.lgov.hu/nyilvantartasok
 asp;Hövej;Győr-Moson-Sopron;Kapuvári;;;;;;;;https://hovej.asp.lgov.hu/nyilvantartasok
 asp;Inárcs;Pest;Dabasi;;;;;;;;https://inarcs.asp.lgov.hu/nyilvantartasok
@@ -146,11 +146,11 @@ asp;Kakasd;Tolna;Bonyhádi;;559;2016.12.16;;;;2020.08.01;https://kakasd.asp.lgov
 zalajaras;Kamut;Békés;Békési;I;;;;;2017.04.29;2021.04.13;
 asp;Kánó;Borsod-Abaúj-Zemplén;Putnoki;;;;;;;;https://kano.asp.lgov.hu/nyilvantartasok
 asp;Kántorjánosi;Szabolcs-Szatmár-Bereg;Mátészalkai;;;;;;;;https://kantorjanosi.asp.lgov.hu/nyilvantartasok
-govcenter;Kaposvár;Somogy;Kaposvári;;646;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=646
+govcenter;Kaposvár;Somogy;Kaposvári;;646;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=646
 komdat;Kapuvár;Győr-Moson-Sopron;Kapuvári;;;;281925d4-44f2-4049-9418-da7df61c75d3;;;;https://iparkerpublikalas.komdat.hu/?onkid=281925d4-44f2-4049-9418-da7df61c75d3
 asp;Karancsság;Nógrád;Salgótarjáni;;;;;;;;https://karancssag.asp.lgov.hu/nyilvantartasok
 zalajaras;Kaskantyú;Bács-Kiskun;Kiskőrösi;I;;;;;2016.02.01;2021.04.13;
-govcenter;Kecskemét;Bács-Kiskun;Kecskeméti;;149;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=149
+govcenter;Kecskemét;Bács-Kiskun;Kecskeméti;;149;2021.09.30;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=149
 asp;Kemse;Baranya;Sellyei;;;;;;;;https://kemse.asp.lgov.hu/nyilvantartasok
 asp;Kerecsend;Heves;Egri;;;;;;;;https://kerecsend.asp.lgov.hu/nyilvantartasok
 govcenter;Kerekegyháza;Bács-Kiskun;Kecskeméti;;423;2017.11.09;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=423
@@ -165,7 +165,7 @@ zalajaras;Kisoroszi;Pest;Szentendrei;I;;;;;2019.05.01;2021.04.13;
 komdat;Kisvejke;Tolna;Bonyhádi;;;;ba933fb2-4dcc-4a32-ab6b-e08b7c7e4e15;;;;https://iparkerpublikalas.komdat.hu/?onkid=ba933fb2-4dcc-4a32-ab6b-e08b7c7e4e15
 asp;Kóka;Pest;Nagykátai;;;;;;;;https://koka.asp.lgov.hu/nyilvantartasok
 asp;Kokad;Hajdú-Bihar;Derecskei;;;;;;;;https://kokad.asp.lgov.hu/nyilvantartasok
-komdat;Komló;Baranya;Komlói;I;39;2017.12.14;10ce11d8-1056-431f-be80-f7db0eb41567;2021.08.17;;2021.08.17;https://iparkerpublikalas.komdat.hu/?onkid=10ce11d8-1056-431f-be80-f7db0eb41567
+komdat;Komló;Baranya;Komlói;I;39;2017.12.14;10ce11d8-1056-431f-be80-f7db0eb41567;2021.09.15;;2021.10.04;https://iparkerpublikalas.komdat.hu/?onkid=10ce11d8-1056-431f-be80-f7db0eb41567
 asp;Köröstarcsa;Békés;Békési;;;;;;;;https://korostarcsa.asp.lgov.hu/nyilvantartasok
 asp;Kunhegyes;Jász-Nagykun-Szolnok;Kunhegyesi;;48;2018.01.09;;;;2020.12.19;https://kunhegyes.asp.lgov.hu/nyilvantartasok
 asp;Kunszállás;Bács-Kiskun;Kecskeméti;;;;;;;;https://kunszallas.asp.lgov.hu/nyilvantartasok
@@ -193,7 +193,7 @@ asp;Mezőfalva;Fejér;Dunaújvárosi;;;;;;;;https://mezofalva.asp.lgov.hu/nyilva
 asp;Mezőpeterd;Hajdú-Bihar;Berettyóújfalui;;;;;;;;https://mezopeterd.asp.lgov.hu/nyilvantartasok
 asp;Mezőtúr;Jász-Nagykun-Szolnok;Mezőtúri;;;;;;;;https://mezotur.asp.lgov.hu/nyilvantartasok
 asp;Mindszentgodisa;Baranya;Hegyháti;;;;;;;;https://mindszentgodisa.asp.lgov.hu/nyilvantartasok
-govcenter;Miskolc;Borsod-Abaúj-Zemplén;Miskolci;I;305;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=305
+govcenter;Miskolc;Borsod-Abaúj-Zemplén;Miskolci;I;305;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=305
 asp;Mogyoród;Pest;Gödöllői;;;;;;;;https://mogyorod.asp.lgov.hu/nyilvantartasok
 govcenter;Mohács;Baranya;Mohácsi;;35;2019.01.09;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=35
 asp;Molnaszecsőd;Vas;Körmendi;;;;;;;;https://molnaszecsod.asp.lgov.hu/nyilvantartasok
@@ -206,7 +206,7 @@ asp;Nagybaracska;Bács-Kiskun;Bajai;;;;;;;;https://nagybaracska.asp.lgov.hu/nyil
 asp;Nagybörzsöny;Pest;Szobi;;;;;;;;https://nagyborzsony.asp.lgov.hu/nyilvantartasok
 asp;Nagyhegyes;Hajdú-Bihar;Hajdúszoboszlói;;;;;;;;https://nagyhegyes.asp.lgov.hu/nyilvantartasok
 govcenter;Nagykálló;Szabolcs-Szatmár-Bereg;Nagykállói;;14;2018.11.15;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=14
-govcenter;Nagykanizsa;Zala;Nagykanizsai;;55;2021.08.12;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=55
+govcenter;Nagykanizsa;Zala;Nagykanizsai;;55;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=55
 asp;Nagykáta;Pest;Nagykátai;;524;2015.05.12;;;;2020.08.01;https://nagykata.asp.lgov.hu/nyilvantartasok
 asp;Nagykereki;Hajdú-Bihar;Berettyóújfalui;;;;;;;;https://nagykereki.asp.lgov.hu/nyilvantartasok
 zalajaras;Nagykovácsi;Pest;Budakeszi;I;;;;;2020.12.01;2021.04.11;
@@ -226,7 +226,7 @@ asp;Nyíradony;Hajdú-Bihar;Nyíradonyi;;;;;;;;https://nyiradony.asp.lgov.hu/nyi
 govcenter;Nyírbátor;Szabolcs-Szatmár-Bereg;Nyírbátori;;43;2018.01.08;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=43
 zalajaras;Óbudavár;Veszprém;Balatonfüredi;I;;;;;2020.08.10;2021.04.11;
 asp;Olaszliszka;Borsod-Abaúj-Zemplén;Sárospataki;;;;;;;;https://olaszliszka.asp.lgov.hu/nyilvantartasok
-asp;Orgovány;Bács-Kiskun;Kecskeméti;I;;;;;2021.03.31;2021.04.11;https://orgovany.asp.lgov.hu/nyilvantartasok
+asp;Orgovány;Bács-Kiskun;Kecskeméti;I;;;;;2021.08.24;2021.10.05;https://orgovany.asp.lgov.hu/nyilvantartasok
 govcenter;Oroszlány;Komárom-Esztergom;Oroszlányi;;31;2017.12.14;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=31
 komdat;Ostoros;Heves;Egri;;;;8e939af2-e512-435f-ab3d-f9e36d480a2e;;;;https://iparkerpublikalas.komdat.hu/?onkid=8e939af2-e512-435f-ab3d-f9e36d480a2e
 zalajaras;Örvényes;Veszprém;Balatonfüredi;;;;;;2020.05.19;2021.04.11;
@@ -237,14 +237,14 @@ asp;Pánd;Pest;Monori;;;;;;;;https://pand.asp.lgov.hu/nyilvantartasok
 govcenter;Pápa;Veszprém;Pápai;;478;2019.01.10;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=478
 asp;Páprád;Baranya;Sellyei;;;;;;;;https://paprad.asp.lgov.hu/nyilvantartasok
 govcenter;Pásztó;Nógrád;Pásztói;;62;2019.02.06;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=62
-govcenter;Pécs;Baranya;Pécsi;;104;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=104
+govcenter;Pécs;Baranya;Pécsi;;104;2021.10.04;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=104
 zalajaras;Pécsely;Veszprém;Balatonfüredi;;;;;;2020.11.30;2021.04.11;
 govcenter;Perbál;Pest;Budakeszi;;469;2017.08.22;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=469
-asp;Piliscsaba;Pest;Pilisvörösvári;I;;;;;2021.03.03;2021.04.11;https://piliscsaba.asp.lgov.hu/nyilvantartasok
+asp;Piliscsaba;Pest;Pilisvörösvári;I;;;;;2021.10.01;2021.10.05;https://piliscsaba.asp.lgov.hu/nyilvantartasok
 zalajaras;Piliscsév;Komárom-Esztergom;Esztergomi;I;;;;;2018.03.01;2021.04.13;
 zalajaras;Pilisjászfalu;Pest;Pilisvörösvári;I;;;;;2017.05.03;2021.04.14;
-asp;Pilismarót;Komárom-Esztergom;Esztergomi;I;;;;;2021.03.25;2021.04.11;https://pilismarot.asp.lgov.hu/nyilvantartasok
-asp;Pilisvörösvár;Pest;Pilisvörösvári;I;67;2017.12.12;;;2021.04.06;2021.04.11;https://pilisvorosvar.asp.lgov.hu/nyilvantartasok
+asp;Pilismarót;Komárom-Esztergom;Esztergomi;I;;;;;2021.03.25;2021.10.05;https://pilismarot.asp.lgov.hu/nyilvantartasok
+asp;Pilisvörösvár;Pest;Pilisvörösvári;I;67;2017.12.12;;;2021.09.23;2021.10.05;https://pilisvorosvar.asp.lgov.hu/nyilvantartasok
 govcenter;Pilisszántó;Pest;Pilisvörösvári;;232;2015.03.04;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=232
 zalajaras;Pilisszentiván;Pest;Pilisvörösvári;I;;;;;2016.08.01;2021.04.14;
 komdat;Pirtó;Bács-Kiskun;Kiskunhalasi;;;;E0013092-A760-4B43-AF63-93FF41039F40;;;;https://iparkerpublikalas.komdat.hu/?onkid=E0013092-A760-4B43-AF63-93FF41039F40
@@ -272,7 +272,7 @@ govcenter;Soltvadkert;Bács-Kiskun;Kiskőrösi;;32;2018.12.21;;;;2020.08.01;http
 zalajaras;Solymár;Pest;Pilisvörösvári;I;;;;;2019.10.29;2021.04.14;
 zalajaras;Somogysárd;Somogy;Kaposvári;I;;;;;2019.07.19;2021.04.14;
 asp;Somoskőújfalu;Nógrád;Salgótarjáni;;;;;;;;https://somoskoujfalu.asp.lgov.hu/nyilvantartasok
-govcenter;Sopron;Győr-Moson-Sopron;Soproni;;584;2020.12.10;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=584
+govcenter;Sopron;Győr-Moson-Sopron;Soproni;;584;2020.12.10;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=584
 asp;Surd;Zala;Nagykanizsai;;;;;;;;https://surd.asp.lgov.hu/nyilvantartasok
 asp;Szágy;Baranya;Hegyháti;;;;;;;;https://szagy.asp.lgov.hu/nyilvantartasok
 komdat;Szalkszentmárton;Bács-Kiskun;Kunszentmiklósi;;;;9c5c6888-7922-40f4-a1d3-8be9ce370e0e;;;;https://iparkerpublikalas.komdat.hu/?onkid=9c5c6888-7922-40f4-a1d3-8be9ce370e0e
@@ -281,7 +281,7 @@ govcenter;Szarvas;Békés;Szarvasi;;20;2018.01.01;;;;2020.08.01;https://www.govc
 asp;Szarvaskend;Vas;Körmendi;;;;;;;;https://szarvaskend.asp.lgov.hu/nyilvantartasok
 govcenter;Százhalombatta;Pest;Érdi;;100;2018.12.19;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=100
 komdat;Székesfehérvár;Fejér;Székesfehérvári;;;;976ea49c-4fd5-4a44-91d9-ae2580f8ed46;;;;https://iparkerpublikalas.komdat.hu/?onkid=976ea49c-4fd5-4a44-91d9-ae2580f8ed46
-asp;Szekszárd;Tolna;Szekszárdi;I;;;;;2021.03.31;2021.04.11;https://szekszard.asp.lgov.hu/nyilvantartasok
+asp;Szekszárd;Tolna;Szekszárdi;I;;;;;2021.09.29;2021.10.05;https://szekszard.asp.lgov.hu/nyilvantartasok
 zalajaras;Szentantalfa;Veszprém;Balatonfüredi;I;;;;;2020.11.06;2021.04.11;
 zalajaras;Szentjakabfa;Veszprém;Balatonfüredi;I;;;;;2003.10.27;2021.04.11;
 asp;Szentlőrinc;Baranya;Szentlőrinci;;;;;;;;https://szentlorinc.asp.lgov.hu/nyilvantartasok
@@ -292,10 +292,10 @@ zalajaras;Szigethalom;Pest;Szigetszentmiklósi;I;;;;;2019.08.12;2021.04.14;
 govcenter;Szigetszentmiklós;Pest;Szigetszentmiklósi;;53;2019.01.11;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=53
 asp;Szilsárkány;Győr-Moson-Sopron;Csornai;;;;;;;;https://szilsarkany.asp.lgov.hu/nyilvantartasok
 govcenter;Szilvásvárad;Heves;Bélapátfalvai;I;128;2017.04.03;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=128
-asp;Szob;Pest;Szobi;I;;;;;2021.04.29;2021.05.03;https://szob.asp.lgov.hu/nyilvantartasok
+asp;Szob;Pest;Szobi;I;;;;;2021.04.29;2021.10.05;https://szob.asp.lgov.hu/nyilvantartasok
 govcenter;Szólád;Somogy;Siófoki;;530;2017.03.03;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=530
-govcenter;Szolnok;Jász-Nagykun-Szolnok;Szolnoki;;15;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=15
-govcenter;Szombathely;Vas;Szombathelyi;;585;2021.08.16;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=585
+govcenter;Szolnok;Jász-Nagykun-Szolnok;Szolnoki;;15;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=15
+govcenter;Szombathely;Vas;Szombathelyi;;585;2021.09.29;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=585
 asp;Sződliget;Pest;Váci;;370;2017.12.18;;;;2020.08.01;https://szodliget.asp.lgov.hu/nyilvantartasok
 zalajaras;Tagyon;Veszprém;Balatonfüredi;I;;;;;2019.07.18;2021.04.11;
 asp;Tahitótfalu;Pest;Szentendrei;;;;;;;;https://tahitotfalu.asp.lgov.hu/nyilvantartasok
@@ -309,7 +309,7 @@ asp;Tárnok;Pest;Érdi;;514;2015.04.17;;;;2020.08.01;https://tarnok.asp.lgov.hu/
 komdat;Tass;Bács-Kiskun;Kunszentmiklósi;;;;0df96adb-74d4-49b1-a607-e8bfe026c664;;;;https://iparkerpublikalas.komdat.hu/?onkid=0df96adb-74d4-49b1-a607-e8bfe026c664
 zalajaras;Tát;Komárom-Esztergom;Esztergomi;I;;;;;2016.08.08;2021.04.13;
 govcenter;Tata;Komárom-Esztergom;Tatai;;352;2018.12.13;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=352
-govcenter;Tatabánya;Komárom-Esztergom;Tatabányai;;568;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=568
+govcenter;Tatabánya;Komárom-Esztergom;Tatabányai;;568;2021.09.30;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=568
 govcenter;Teleki;Somogy;Siófoki;;531;2012.02.06;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=531
 zalajaras;Telkibánya;Borsod-Abaúj-Zemplén;Gönci;I;;;;;2015.09.01;2021.04.13;
 zalajaras;Tihany;Veszprém;Balatonfüredi;;125;2017.10.09;;;2020.12.31;2021.04.11;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=125
@@ -328,7 +328,7 @@ asp;Tura;Pest;Aszódi;;;;;;;2020.12.19;https://tura.asp.lgov.hu/nyilvantartasok
 asp;Tüskevár;Veszprém;Devecseri;;;;;;;;https://tuskevar.asp.lgov.hu/nyilvantartasok
 asp;Újlengyel;Pest;Dabasi;;;;;;;;https://ujlengyel.asp.lgov.hu/nyilvantartasok
 zalajaras;Újszilvás;Pest;Ceglédi;I;;;;;2020.12.15;2021.04.14;
-asp;Úny;Komárom-Esztergom;Esztergomi;I;;;;;2018.12.20;2021.04.13;https://uny.asp.lgov.hu/nyilvantartasok
+asp;Úny;Komárom-Esztergom;Esztergomi;I;;;;;2018.12.20;2021.10.05;https://uny.asp.lgov.hu/nyilvantartasok
 komdat;Vác;Pest;Váci;;6;2018.12.10;E5CD40FA-7123-496F-9AA3-1A8B83083D82;;;2020.08.01;https://iparkerpublikalas.komdat.hu/?onkid=E5CD40FA-7123-496F-9AA3-1A8B83083D82
 govcenter;Várpalota;Veszprém;Várpalotai;;47;2018.01.02;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=47
 zalajaras;Vászoly;Veszprém;Balatonfüredi;;580;2018.02.13;;;2020.03.06;2021.04.11;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=580
@@ -336,12 +336,13 @@ asp;Vejti;Baranya;Sellyei;;;;;;;;https://vejti.asp.lgov.hu/nyilvantartasok
 asp;Vekerd;Hajdú-Bihar;Berettyóújfalui;;;;;;;;https://vekerd.asp.lgov.hu/nyilvantartasok
 zalajaras;Velence;Fejér;Gárdonyi;I;;;;;2020.08.05;2020.08.05;http://kernyilvantartas.zalajaras.hu/public/
 önkormányzat;Veresegyház;Pest;Gödöllői;I;33;2017.12.11;;;2020.11.16;2021.04.11;https://www.veresegyhaz.hu/page/menu/380
-govcenter;Veszprém;Veszprém;Veszprémi;;34;2021.08.17;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=34
+asp;Verőce;Pest;Szobi;I;;;;;2020.08.12;2021.10.05;https://veroce.asp.lgov.hu/nyilvantartasok
+govcenter;Veszprém;Veszprém;Veszprémi;;34;2021.10.04;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=34
 -;Visegrád;Pest;Szentendrei;I;;;;;-;2021.04.13;
 asp;Völcsej;Győr-Moson-Sopron;Soproni;;;;;;;;https://volcsej.asp.lgov.hu/nyilvantartasok
 asp;Zabar;Nógrád;Salgótarjáni;;;;;;;;https://zabar.asp.lgov.hu/nyilvantartasok
 komdat;Zagyvarékas;Jász-Nagykun-Szolnok;Szolnoki;;;;D066EBD8-4982-4B7F-99D4-4638F622631E;;;;https://iparkerpublikalas.komdat.hu/?onkid=D066EBD8-4982-4B7F-99D4-4638F622631E
-govcenter;Zalaegerszeg;Zala;Zalaegerszegi;;64;2021.08.13;;;;2021.08.17;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=64
+govcenter;Zalaegerszeg;Zala;Zalaegerszegi;;64;2021.10.05;;;;2021.10.05;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=64
 asp;Zalaszentlászló;Zala;Zalaszentgróti;;;;;;;;https://zalaszentlaszlo.asp.lgov.hu/nyilvantartasok
 asp;Zaláta;Baranya;Sellyei;;;;;;;;https://zalata.asp.lgov.hu/nyilvantartasok
 govcenter;Zamárdi;Somogy;Siófoki;;44;2018.02.01;;;;2020.08.01;https://www.govcenter.hu/uzlet/Public/Uzleteklista.aspx?onk_id=44

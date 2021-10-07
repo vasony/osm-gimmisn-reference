@@ -1,7 +1,0 @@
-﻿1) PDF letöltése
-https://www.erzsebetvaros.hu/nyilvanossag/kozerdeku-adatok/nyilvantartasok
-Bejelentés-köteles és telepengedély-köteles tevékenység nyilvántartása
-
-2) 18 Mb-os PDF - Acrobad Reader save to text -> budapest_07.txt -> convert to latin2
-
-3) Budapest 07.bat -> 01070.txt-ben az eredmény
