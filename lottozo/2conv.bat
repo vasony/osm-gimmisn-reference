@@ -1,0 +1,1 @@
+jq -r ".shoplist[] | [.retailerId,  .retailerName, .zipCode, .townName, .streetName, .houseNumber ] |@tsv" shoplist >shoplist.txt

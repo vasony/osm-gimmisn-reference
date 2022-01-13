@@ -1,16 +1,18 @@
 ﻿ID;Név;Forrás;Terület;Aktív;Frissítés;Darabszám;Megjegyzés
 1;Egyedi címek;https://github.com/vasony/osm-gimmisn-reference/blob/master/egyedi-cimek.txt;országos;I;2020.12.31;54;Referenciákban nem, de valóságban létező házszámok
 -;Elmű karbantartások;https://elmuhalozat.hu/tudnivalok/energiakozeli-informaciok/tervezett-karbanatartasok;regionális;N;2020.03.25;4201;Tömbbönkénti házszámok, sok fals, nem használható
-2;Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2021.08.17;2286;
-3;Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2021.08.17;245;csak aminek van értelmes címe
+2;Gyógyszerárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2022.01.12;2286;
+3;Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2022.01.12;237;csak aminek van értelmes címe
 5;Adótartozás;https://www.nav.gov.hu/nav/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2021.09.30;5637;3 különböző táblázat
-6;NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2021.10.02;1538;
-7;Giro egyszerűsített hitelesítő tábla;https://giro.hu/dokumentumok;országos;I;2021.10.01;6242;Bank címek
-8;Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2021.08.17;161;
-9;Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2021.08.12;31039;Excel és pdf is van
-10;Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;I;2021.03.24;3546;2021-08-17 Nem frissült
-11;Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2021.08.16;2587;csak aminek van címe, nem mobilposta
-12;Iskolák;https://www.kir.hu/KIFIR2/TTJegyzekKereso/Home/TeljesListaXlsx;országos;I;2021.08.17;1342;csak egyedi címek
-13;Dohányboltok;https://www.nav.gov.hu/nav/adatbazisok/vamhat_engedelyes_dohanyboltok_1417768186390;országos;I;2021.08.17;5190;
+6;NMHH szolgáltatók listája;http://webext.nmhh.hu/hir_szolg/app/index.jsp;országos;I;2022.01.12;1538;
+7;Giro egyszerűsített hitelesítő tábla;https://giro.hu/dokumentumok;országos;I;2022.01.01;6248;Bank címek
+8;Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;I;2022.01.12;163;
+9;Civil szervezetek;https://nav.gov.hu/nav/szja1_1/regisztralt_civil_2021;országos;I;2022.01.12;31913;Excel és pdf is van
+10;Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;N;2021.03.24;3546;2021-08-17 Nem frissült
+11;Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2022.01.05;2586;csak aminek van címe, nem mobilposta
+12;Iskolák;https://www.kir.hu/KIFIR2/TTJegyzekKereso/Home/TeljesListaXlsx;országos;N;2021.08.17;1342;csak egyedi címek
+13;Dohányboltok;https://nemzetidohany.hu/dohanyboltkereso/listak;országos;I;2022.01.10;5880;2 lista egyben
 14;ÉTDR;https://www.etdr.gov.hu/GeneralInformations/ProcessList;országos;I;2021.10.26;5091;2019.01.01-től, csak a gimmisn települések egy része
-15;KCR Újbuda;https://kozigazgatas.ujbuda.hu/esemeny/hirdetmenyek/cimkezelessel-erintett-cimek-kozzetetele-203;helyi;I;2021.09.28;0;ref_osm_gimmisn manuális felvitel ahol szükséges
+15;KCR Újbuda;https://kozigazgatas.ujbuda.hu/esemeny/hirdetmenyek/cimkezelessel-erintett-cimek-kozzetetele-203;helyi;I;2021.12.21;0;ref_osm_gimmisn manuális felvitel ahol szükséges
+18;FKF hulladéknaptár;https://www.fkf.hu/hulladeknaptar;helyi;I;2021.11.04;177239;
+19;Lottózók;https://bet.szerencsejatek.hu/shopfinder/shoplist;országos;I;2022.01.12;2255;
