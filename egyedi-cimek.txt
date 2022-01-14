@@ -1,7 +1,6 @@
 id;cím;megjegyzés
 1;1221 Budapest, Szent István tér 1.;OSM épület és referencia. Azért hiányozhat, mert az egyetlen cím a téren, és se nem lakóház, se nem cég.
 2;1225 Budapest, Őszirózsa utca 4.;OSM címpont, egyértelműen kint van az épületen, de maga az épület a merőleges Kardvirág utcáról nyílik, így ezt adtam meg fő címként. Mindkettő házszám látható a terepen.
-3;1112 Budapest, Deáki utca 3.;2020-ban épült ház.
 4;1112 Budapest, Szőlőlugas utca 13.;2020/21-ben épülő ház.
 5;1111 Budapest, Gárdonyi tér 1.;Van egy lakóház bejárat ilyen címmel.
 6;1121 Budapest, Szélső utca 3.;
