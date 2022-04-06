@@ -1,11 +1,19 @@
 Budapest 08:	https://iparkerpublikalas.komdat.hu/?onkid=167e1e18-65a1-4c87-8ecb-33afe0e654b5
 Budapest 20:	https://iparkerpublikalas.komdat.hu/?onkid=83BE8C4C-DFAB-45C6-B922-6126741A3C57
 Komló:          https://iparkerpublikalas.komdat.hu/?onkid=10ce11d8-1056-431f-be80-f7db0eb41567
+Dunaújváros	https://iparkerpublikalas.komdat.hu/?onkid=0b2340e9-4d3a-4286-b26a-bc5c1ff05819
 
 Többi id az onk_id.txt fájlban
 
-Ki kell választani, hogy üzlet, majd az API hívást ki kell parseolni ezekből, ahol a filenev=0
-erre az url-re módosítani az a1get.bat-ban
+# ez adja vissza a kulcsot
+https://iparkerpublikalasservice.komdat.hu/api/Publikacio/Uzlet/167e1e18-65a1-4c87-8ecb-33afe0e654b5 <- 
+# innen szedi le a jsont
+https://iparkerpublikalasservice.komdat.hu/api/Publikacio/Uzlet/167e1e18-65a1-4c87-8ecb-33afe0e654b5/e00d6792-ba29-4270-85ae-a80514224043/0/0 <- ez a táblázatot, a második random a kulcs
+
+1get_convert.bat - leszedi json-ben és átkonvertálja textre
+
+	majd load, előtte govcenter futtatandó, az truncate-el
+
 
 Az adatok base64-gyel vannak kódolva.
 Ezen kívül a karakterek el vannak shiftelve 1..8 byteal, poziciótól függően, fordított sorrendben kell összerakni az eredményt:

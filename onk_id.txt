@@ -135,13 +135,13 @@ komdat
 + 167e1e18-65a1-4c87-8ecb-33afe0e654b5	Budapest 08
 + 83BE8C4C-DFAB-45C6-B922-6126741A3C57	Budapest 20
 + 10ce11d8-1056-431f-be80-f7db0eb41567	Komló
++ 0b2340e9-4d3a-4286-b26a-bc5c1ff05819	Dunaújváros
 
 7aeb631f-6fcf-47fc-8e40-8744b1717dad	Bozsok
 4d6100d2-4bca-47dc-a057-ee82b2a68733	Budajenő
 4e7b1b03-6bfc-49a7-9976-c2c7b9805627	Dunaharaszti
 f9d012bd-28e3-4157-9f54-13c1c188c683	Dunakeszi
 52072a94-a717-4e03-94ab-e184a12982f3	Dunaszentgyörgy
-0b2340e9-4d3a-4286-b26a-bc5c1ff05819	Dunaújváros
 6a7ef3fe-62cd-4b55-a7bc-e3596fdea01f	Füzesabony
 320e08a3-d8d1-4628-8de0-3171aa545195	Gyál
 f44b5de5-e203-42ec-8d55-93be5f17f2b9	Halásztelek

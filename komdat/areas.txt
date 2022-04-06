@@ -1,0 +1,4 @@
+167e1e18-65a1-4c87-8ecb-33afe0e654b5,01080.txt,budapest_08
+83BE8C4C-DFAB-45C6-B922-6126741A3C57,01200.txt,budapest_20
+10ce11d8-1056-431f-be80-f7db0eb41567,07300.txt,komlo
+0b2340e9-4d3a-4286-b26a-bc5c1ff05819,02400.txt,dunaujvaros
