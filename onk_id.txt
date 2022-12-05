@@ -5,7 +5,7 @@ govcenter
 7	1024 Budapest
 432	1051 Budapest
 182	1066 Budapest
--- 1070	1071  Budapest
+647	1071  Budapest
 ---58	1087 Budapest; Nem frissül -> komdat:	
 465	1117 Budapest
 126	1122 Budapest
@@ -132,14 +132,16 @@ Nem frissül:
 580	8245 Vászoly
 
 komdat
++ 7AEA9F64-428D-4BCD-A3E8-45673C71F7C5	Balatonboglár
 + 167e1e18-65a1-4c87-8ecb-33afe0e654b5	Budapest 08
 + 83BE8C4C-DFAB-45C6-B922-6126741A3C57	Budapest 20
-+ 10ce11d8-1056-431f-be80-f7db0eb41567	Komló
++ 4e7b1b03-6bfc-49a7-9976-c2c7b9805627	Dunaharaszti
 + 0b2340e9-4d3a-4286-b26a-bc5c1ff05819	Dunaújváros
++ 10ce11d8-1056-431f-be80-f7db0eb41567	Komló
++ 15fe45b2-2c9a-43e1-b59e-385250c4d0e3	Sarud
 
 7aeb631f-6fcf-47fc-8e40-8744b1717dad	Bozsok
 4d6100d2-4bca-47dc-a057-ee82b2a68733	Budajenő
-4e7b1b03-6bfc-49a7-9976-c2c7b9805627	Dunaharaszti
 f9d012bd-28e3-4157-9f54-13c1c188c683	Dunakeszi
 52072a94-a717-4e03-94ab-e184a12982f3	Dunaszentgyörgy
 6a7ef3fe-62cd-4b55-a7bc-e3596fdea01f	Füzesabony
@@ -159,7 +161,6 @@ c4992373-9063-45f0-8e20-1b35a060c2e8	Nagytálya
 E0013092-A760-4B43-AF63-93FF41039F40	Pirtó
 f93466cd-4ce2-407d-acde-111a0a0485f9	Poroszló
 dce178fa-ce0e-432b-9cbf-6480d771b2ff	Ráckeve
-15fe45b2-2c9a-43e1-b59e-385250c4d0e3	Sarud
 9c5c6888-7922-40f4-a1d3-8be9ce370e0e	Szalkszentmárton
 976ea49c-4fd5-4a44-91d9-ae2580f8ed46	Székesfehérvár
 917a50e8-7d11-4dc3-9cf7-95b82ed2a0ad	Taksony
