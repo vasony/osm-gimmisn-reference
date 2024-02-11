@@ -1,2 +1,3 @@
-https://www.nav.gov.hu/nav/adatbazisok/vamhat_engedelyes_dohanyboltok_1417768186390
-
+https://sztfh.hu/nyilvantartasok/engedellyel-rendelkezo-nemzeti-dohanyboltok/
+https://sztfh.hu/nyilvantartasok/feljogositott-szemelyek-listaja-kijeloltek/
+csv letöltés

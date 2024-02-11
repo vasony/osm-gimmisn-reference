@@ -1,0 +1,5 @@
+https://arveres.mbvk.hu/arverezok/ingatlanhirdetmenyek.php
+https://arveres.mbvk.hu/arverezok/ajax/server_processing_arver_notlogged2X.php?sEcho=1&iColumns=15&sColumns=&iDisplayStart=0&iDisplayLength=100&mDataProp_0=0&mDataProp_1=1&mDataProp_2=2&mDataProp_3=3&mDataProp_4=4&mDataProp_5=5&mDataProp_6=6&mDataProp_7=7&mDataProp_8=8&mDataProp_9=9&mDataProp_10=10&mDataProp_11=11&mDataProp_12=12&mDataProp_13=13&mDataProp_14=14&p_ingatlan=true&p_online=true&p_faziskod=normal_ingatlan_2021&g_sort_mode=feltolt&g_sort_dir=desc&k_elo=true
+
+
+https://arveres.mbvk.hu/arverezok/ajax/server_processing_arver_notlogged2X.php?sEcho=1&iColumns=15&sColumns=&iDisplayStart=0&iDisplayLength=10&mDataProp_0=0&mDataProp_1=1&mDataProp_2=2&mDataProp_3=3&mDataProp_4=4&mDataProp_5=5&mDataProp_6=6&mDataProp_7=7&mDataProp_8=8&mDataProp_9=9&mDataProp_10=10&mDataProp_11=11&mDataProp_12=12&mDataProp_13=13&mDataProp_14=14&p_ingatlan=true&p_online=true&p_faziskod=normal_ingatlan_2021&g_sort_mode=feltolt&g_sort_dir=desc&k_telepulesnev=Budapest&k_elo=true&_=1674040722064
