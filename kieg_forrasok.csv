@@ -13,11 +13,11 @@
 12;Köznevelési intézmények;https://dari.oktatas.hu/kirpub/index;országos;I;2024.05.26;13624;2 lista egyben
 13;Dohányboltok;https://sztfh.hu/nyilvantartasok/engedellyel-rendelkezo-nemzeti-dohanyboltok/;országos;I;2024.05.26;5762;2 lista egyben
 14;KCR Újbuda;https://kozigazgatas.ujbuda.hu/esemeny/hirdetmenyek/cimkezelessel-erintett-cimek-kozzetetele-269;helyi;I;2023.10.17;0;ref_osm_gimmisn manuális felvitel ahol szükséges
-15;ÉTDR;https://www.etdr.gov.hu/GeneralInformations/ProcessList;országos;I;2024.05.24;39843;API: https://www.etdr.gov.hu/api/public/generalinformations
+15;ÉTDR;https://www.etdr.gov.hu/GeneralInformations/ProcessList;országos;I;2024.07.21;50173;API: https://www.etdr.gov.hu/api/public/generalinformations
 18;FKF hulladéknaptár;https://www.fkf.hu/hulladeknaptar;helyi;N;2021.11.04;177239;egyszeri import volt, sok fals cím miatt nem frissítjük
 19;Lottózók;https://bet.szerencsejatek.hu/shopfinder/shoplist;országos;I;2024.05.26;3846;csak ahol van házszám
 20;Magyar Mérnöki Kamara;https://www.mmk.hu/kereses/tagok;országos;I;2024.02.10;32415;
-21;Magyar Bírói Végrehajtói Kar;https://arveres.mbvk.hu/arverezok/ingatlanhirdetmenyek.php;országos;I;2024.05.24;23736;csak az utolsó 3+1 hónap van fent
+21;Magyar Bírói Végrehajtói Kar;https://arveres.mbvk.hu/arverezok/ingatlanhirdetmenyek.php;országos;I;2024.07.21;25665;csak az utolsó 3+1 hónap van fent
 23;Árfigyelő;https://arfigyelo.gvh.hu/api/shops;országos;I;2024.05.26;1145;csak aminek van házszáma
 26;CBA;https://www.cba.hu/uzletlista/;országos;I;2024.05.25;472;
 27;Orlen;https://orlen.hu/toltoallomasaink/;országos;I;2024.05.24;85;
