@@ -1,24 +1,24 @@
 ﻿ID;Név;Forrás;Terület;Aktív;Frissítés;Darabszám;Megjegyzés
 1;Egyedi címek;https://github.com/vasony/osm-gimmisn-reference/blob/master/egyedi-cimek.txt;országos;I;2020.12.31;54;Referenciákban nem, de valóságban létező házszámok
 -;Elmű karbantartások;https://elmuhalozat.hu/tudnivalok/energiakozeli-informaciok/tervezett-karbanatartasok;regionális;N;2020.03.25;4201;Tömbbönkénti házszámok, sok fals, nem használható
-2;Gyógyszertárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2024.08.30;2258;
-3;Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2024.02.11;238;csak aminek van értelmes címe
-5;Adótartozás;https://nav.gov.hu/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2024.06.30;8366;3 különböző táblázat, kumulált
-6;NMHH szolgáltatók listája;https://nmhh.hu/cikk/168492/Szolgaltatokkal_es_szolgaltatasokkal_kapcsolatos_nyilvantartasok;országos;I;2024.08.30;814;külön hírközlési és posta
-7;Giro egyszerűsített hitelesítő tábla;https://www.mnb.hu/letoltes/sht.xlsx;országos;I;2024.09.01;6627;Bank címek
+2;Gyógyszertárak listája;https://ogyei.gov.hu/?url=gyogyszertarkereso;országos;I;2026.02.15;2976;
+3;Helyi termelő kereső;https://portal.nebih.gov.hu/termelo-kereso;országos;I;2026.02.15;262;csak aminek van értelmes címe
+5;Adótartozás;https://nav.gov.hu/adatbazisok/adoslista/hiany_hatralek_1201188187115;országos;I;2026.12.31;8565;3 különböző táblázat, kumulált
+6;NMHH szolgáltatók listája;https://nmhh.hu/cikk/168492/Szolgaltatokkal_es_szolgaltatasokkal_kapcsolatos_nyilvantartasok;országos;I;2026.02.15;663;külön hírközlési és posta
+7;Giro egyszerűsített hitelesítő tábla;https://www.mnb.hu/letoltes/sht.xlsx;országos;I;2026.02.15;6674;Bank címek
 8;Koronavirus-Mintavétel céljából felkereshető intézmények;https://www.nnk.gov.hu/index.php/koronavirus/mintavetel-celjabol-felkeresheto-intezmenyek-listaja;országos;N;2022.12.05;175;
-9;Civil szervezetek;https://nav.gov.hu/ado/szja1_1/felajanlasra-jogosultak/regisztralt_civil;országos;I;2024.08.27;33337;Excel és pdf is van, captcha
+9;Civil szervezetek;https://nav.gov.hu/ado/szja1_1/felajanlasra-jogosultak/regisztralt_civil;országos;I;2026.02.13;35059;Excel és pdf is van, captcha
 10;Sporszelet beváltóhelyek;https://apozitivenergiasport.hu/assets/json/stores.json;országos;N;2021.03.24;3546;2021-08-17 Nem frissült
-11;Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2024.08.30;3279;csak aminek van címe, nem mobilposta
-12;Köznevelési intézmények;https://dari.oktatas.hu/kirpub/index;országos;I;2024.05.26;13624;2 lista egyben
-13;Dohányboltok;https://sztfh.hu/nyilvantartasok/engedellyel-rendelkezo-nemzeti-dohanyboltok/;országos;I;2024.08.30;5728;2 lista egyben
+11;Postahivatalok;https://www.posta.hu/static/internet/download/Allando_postai_szolgaltatohelyek.xlsx;országos;I;2026.02.13;3346;csak aminek van címe, nem mobilposta
+12;Köznevelési intézmények;https://dari.oktatas.hu/kirpub/index;országos;I;2026.02.15;13567;2 lista egyben
+13;Dohányboltok;https://sztfh.hu/nyilvantartasok/engedellyel-rendelkezo-nemzeti-dohanyboltok/;országos;I;2026.02.13;5616;2 lista egyben
 14;KCR Újbuda;https://kozigazgatas.ujbuda.hu/esemeny/hirdetmenyek/cimkezelessel-erintett-cimek-kozzetetele-269;helyi;I;2023.10.17;0;ref_osm_gimmisn manuális felvitel ahol szükséges
 15;ÉTDR;https://www.etdr.gov.hu/GeneralInformations/ProcessList;országos;N;2024.08.16;51836;Elérés megszűnt. API: https://www.etdr.gov.hu/api/public/generalinformations
 18;FKF hulladéknaptár;https://www.fkf.hu/hulladeknaptar;helyi;N;2021.11.04;177239;egyszeri import volt, sok fals cím miatt nem frissítjük
-19;Lottózók;https://bet.szerencsejatek.hu/shopfinder/shoplist;országos;I;2024.09.01;3779;csak ahol van házszám
-20;Magyar Mérnöki Kamara;https://www.mmk.hu/kereses/tagok;országos;I;2024.02.10;32415;
-21;Magyar Bírói Végrehajtói Kar;https://arveres.mbvk.hu/arverezok/ingatlanhirdetmenyek.php;országos;I;2024.08.31;27286;csak az utolsó 3+1 hónap van fent
-23;Árfigyelő;https://arfigyelo.gvh.hu/api/shops;országos;I;2024.09.01;1150;csak aminek van házszáma
-25;Mohu;https://map.mohu.hu/api/Map/SearchWastePoints;országos;I;2024.09.01;6070;csak aminek van házszáma
-26;CBA;https://www.cba.hu/uzletlista/;országos;I;2024.09.01;475;
-27;Orlen;https://orlen.hu/toltoallomasaink/;országos;I;2024.09.01;85;
+19;Lottózók;https://bet.szerencsejatek.hu/shopfinder/shoplist;országos;I;2026.02.15;3392;csak ahol van házszám
+20;Magyar Mérnöki Kamara;https://www.mmk.hu/kereses/tagok;országos;I;2025.04.24;32436;
+21;Magyar Bírói Végrehajtói Kar;https://arveres.mbvk.hu/publicapi/auction/list?offset=$j&limit=100&sortMod=feltolt&sortDirection=desc&phaseCode=normal_ingatlan_2021&isLive=true;országos;I;2026.02.15;47037;csak az utolsó 3+1 hónap van fent
+23;Árfigyelő;https://arfigyelo.gvh.hu/api/shops;országos;I;2026.02.15;1752;csak aminek van házszáma
+25;Mohu;https://map.mohu.hu/api/Map/SearchPoisGeneralData;országos;I;2026.02.15;8151;csak aminek van házszáma
+26;CBA;https://www.cba.hu/uzletlista/;országos;I;2026.02.15;767;
+27;Orlen;https://orlen.hu/toltoallomasaink/;országos;I;2026.02.15;84;

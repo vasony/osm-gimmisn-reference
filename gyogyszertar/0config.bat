@@ -1,0 +1,2 @@
+set datum=20250906
+set input=exports_export_5J7NQ9F_20250906181004.csv

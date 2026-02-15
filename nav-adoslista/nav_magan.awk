@@ -11,10 +11,14 @@ BEGIN {
   if ($0 == "") {
     sorszam=sorszam+1
     if(sorszam>1) line=line "|"
+    data[sorszam]=$0
   }
-  else line=line $0
+  else {
+    line=line $0
+    data[sorszam]=data[sorszam] $0
+  }
 
-  if ($0 == "") {
+  if ($0 == "" || $0 == "Egyéni vállalkozók") {
     line=""
     sorszam=1
   }
@@ -25,22 +29,26 @@ BEGIN {
     sorszam=1
   }
 
-  if ($0 == "Adószám") {
-    adoszam=1
-    sorszam=0
-    line=""
-  }
+#  if (sorszam==2 && length($0) < 3 && uj==0) {
+#    line=line "-|"
+#    sorszam=sorszam+1
+#  }
 
-  if((sorszam==4 && adoszam==0)||(sorszam==5 && adoszam==1)) {
-     if(adoszam==0) line=line "|"
+#  print sorszam ">" $0
+
+
+  if(sorszam==5) {
      if(uj==0) print "MAGAN|" line
      line=""
      sorszam=1
      uj=0
   }
 
-  if($0 == "Lakcím nélküliek") {
+
+  if($0 == "Lakcím nélküliek" || $0 == "Adószámos természetes személyek") {
     exit
   }
+
+
 
 }
